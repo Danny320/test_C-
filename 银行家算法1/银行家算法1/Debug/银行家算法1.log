@@ -1,0 +1,23 @@
+﻿生成启动时间为 2019/12/25 12:39:16。
+     1>项目“E:\学习\本地仓库\C_Test\银行家算法1\银行家算法1\银行家算法1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\学习\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt bancer.cpp
+         bancer.cpp
+     1>e:\学习\本地仓库\c_test\银行家算法1\银行家算法1\bancer.cpp(99): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\学习\本地仓库\c_test\银行家算法1\银行家算法1\bancer.cpp(221): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\学习\本地仓库\c_test\银行家算法1\银行家算法1\bancer.cpp(253): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\学习\本地仓库\c_test\银行家算法1\银行家算法1\bancer.cpp(265): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\学习\本地仓库\c_test\银行家算法1\银行家算法1\bancer.cpp(278): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\学习\本地仓库\c_test\银行家算法1\银行家算法1\bancer.cpp(307): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\学习\本地仓库\c_test\银行家算法1\银行家算法1\bancer.cpp(312): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         E:\学习\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\学习\本地仓库\C_Test\银行家算法1\Debug\银行家算法1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\学习\本地仓库\C_Test\银行家算法1\Debug\银行家算法1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\学习\本地仓库\C_Test\银行家算法1\Debug\银行家算法1.lib" /MACHINE:X86 Debug\bancer.obj
+         Debug\main.obj
+         银行家算法1.vcxproj -> E:\学习\本地仓库\C_Test\银行家算法1\Debug\银行家算法1.exe
+       BscMake:
+         E:\学习\vs2013\VC\bin\bscmake.exe /nologo /o"E:\学习\本地仓库\C_Test\银行家算法1\Debug\银行家算法1.bsc" /n Debug\bancer.sbr Debug\main.sbr
+     1>已完成生成项目“E:\学习\本地仓库\C_Test\银行家算法1\银行家算法1\银行家算法1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.61
